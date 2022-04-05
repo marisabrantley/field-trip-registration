@@ -1,5 +1,5 @@
 # Field Trip Registration
-For this exercise, we were to pretend to be kindergarten teachers who are trying to determine which students still need to register for upcoming field trips. The data ass available in a JSON file with an array of student objects, with each object having the students' names and whether they're registered.
+For this exercise, we were to pretend to be kindergarten teachers who are trying to determine which students still need to register for upcoming field trips. The data was available in a JSON file with an array of student objects, with each object having the students' names and whether they're registered.
 
 ## Objective
 
